@@ -1,0 +1,24 @@
+body{
+    background: #d3c6ff;
+    text-align:center;
+    font-family:"楷体";
+    font-size:20px;
+}
+.title span,.result,.user,.computer{
+    font-size:28px;
+    font-weight:bold;
+}
+.result_text{
+    font-size:40px;
+}
+.user{
+    position:absolute;
+    top:280px;
+    left:510px;
+}
+.computer{
+    position:absolute;
+    top:280px;
+    left:780px;
+}
+
